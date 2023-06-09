@@ -1,0 +1,10 @@
+{
+  "name": "fundamentos-node",
+  "version": "1.0.0",
+  "description": "### O que é o nodeJS?",
+  "main": "script.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
